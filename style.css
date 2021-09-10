@@ -3,14 +3,14 @@ body{
 }
 h1{
     text-align:center;
-    font-family: Avenir;
+    font-family:'Courier New', Courier, monospace;
     margin-top: 35px;
     font-weight: 550;
 }
 
 h2{
     text-align:center;
-    font-family: Avenir;
+    font-family:'Courier New', Courier, monospace;
     font-weight: 200;
     font-size: 19px;
 }
@@ -43,12 +43,13 @@ img.ajay{
     margin-right: 160px;
 }
 footer{
+    
     text-align: left;
     margin-top: 50px;
     max-height: 300px;
     font-size: 15px;
     background-color: rgb(248, 249, 250);
-    font-family: Avenir;
+    font-family:'Courier New', Courier, monospace;
     line-height: 17px;
     padding-left: 20px;
     opacity:0.7;
@@ -66,7 +67,7 @@ div.row{
 }
 .table {
 	display: table;
-	margin: 0 auto;
+	margin: 10 auto;
 }
 ul#horizontal-list {
 	min-width: 696px;
@@ -75,7 +76,7 @@ ul#horizontal-list {
 }
 ul#horizontal-list li {
 	display: inline;
-}
+
 iframe{
     margin-top: 30px;
     margin-left: 350px;
